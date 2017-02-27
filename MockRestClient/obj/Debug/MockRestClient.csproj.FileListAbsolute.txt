@@ -1,0 +1,26 @@
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\edge\double_edge.js
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\edge\edge.js
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x64\node.dll
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x86\node.dll
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x64\edge_nativeclr.node
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x86\edge_nativeclr.node
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\MockRestClient.exe.config
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\MockRestClient.exe
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\MockRestClient.pdb
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\bin\Debug\EdgeJs.dll
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\obj\Debug\MockRestClient.csprojResolveAssemblyReference.cache
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\obj\Debug\MockRestClient.exe
+C:\Users\someoneelse\documents\visual studio 2017\Projects\MockRestClient\MockRestClient\obj\Debug\MockRestClient.pdb
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\edge\double_edge.js
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\edge\edge.js
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x64\node.dll
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x86\node.dll
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x64\edge_nativeclr.node
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\edge\x86\edge_nativeclr.node
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\MockRestClient.exe.config
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\MockRestClient.exe
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\MockRestClient.pdb
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\bin\Debug\EdgeJs.dll
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\obj\Debug\MockRestClient.csprojResolveAssemblyReference.cache
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\obj\Debug\MockRestClient.exe
+C:\Users\someoneelse\Documents\Projects\MockRestClient\MockRestClient\obj\Debug\MockRestClient.pdb

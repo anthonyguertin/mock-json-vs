@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Anthony",
+      "lastName": "Guertin"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4,
+      "firstName": "josh",
+      "lastName": "shell"
+    },
+    {
+      "id": 5,
+      "firstName": "josh",
+      "lastName": "shell"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7,
+      "firstName": "andrew",
+      "lastName": "lucas"
+    },
+    {
+      "{\n\t\"id\": 6,\n\t\"firstName\": \"jourdan\",\n\t\"lastName\": \"guertin\"\n}": "",
+      "id": 8
+    },
+    {
+      "{\n\t\"firstName\": \"jourdan\",\n\t\"lastName\": \"guertin\"\n}": "",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "firstName": "jourdan",
+      "lastName": "guertin"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "sample": "sample"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "msg": "I hate you!",
+      "time": "5:32",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "msg": "I love you!",
+      "time": "5:33",
+      "userId": 1
+    }
+  ]
+}

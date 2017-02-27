@@ -1,0 +1,15 @@
+{
+ person: 
+  
+ [
+ { 
+name: 'Lacey DuBuque',
+
+       email: 'Dangelo91@hotmail.com',
+
+       phone: '(883) 951-6804 x28691' 
+ }
+
+ ],
+
+  id: 'http://json-schema.org/schema#' }
